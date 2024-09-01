@@ -1,0 +1,8 @@
+Flask==2.2.5
+dash==2.11.1
+pandas==1.5.3
+yfinance==0.2.26
+numpy==1.23.5
+plotly==5.15.0
+scikit-learn==1.2.2
+requests==2.31.0
